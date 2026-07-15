@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.sdkmod
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+settings/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db

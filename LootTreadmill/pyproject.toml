@@ -1,0 +1,12 @@
+[project]
+name = "LootTreadmill"
+version = "0.1.0"
+authors = [{ name = "Noah Lincke" }]
+description = "Build-oriented world, dedicated-boss, and firmware loot profiles for Borderlands 4."
+
+[tool.sdkmod]
+name = "Loot Treadmill"
+version = "0.1.0"
+supported_games = ["BL4"]
+coop_support = "HostOnly"
+license = { name = "MIT", url = "https://opensource.org/license/mit" }
